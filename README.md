@@ -1,2 +1,4 @@
 # vt-roman-masyutenko-1
-Масютенко Роман Валерьевич - Ткаченко Виталий
+Студент - Масютенко Роман Валерьевич @Roman Masyutenko
+Преподаватель - Ткаченко Виталий @Vitalik_Tkachenko_tlt
+Homework done  
