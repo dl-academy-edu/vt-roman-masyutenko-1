@@ -1,4 +1,4 @@
-# vt-roman-masyutenko-1
-Студент - Масютенко Роман Валерьевич @Roman Masyutenko
-Преподаватель - Ткаченко Виталий @Vitalik_Tkachenko_tlt
-Homework done  
+# Личный проект "Roman Masyutenko"
+
+Студент [Масютенко Роман Валерьевич](http://t.me/romamasko)
+Преподаватель [Ткаченко Виталий](http://t.me/Vitalik_Tkachenko_tlt)
