@@ -1,2 +1,4 @@
-# vt-roman-masyutenko-1
-Масютенко Роман Валерьевич - Ткаченко Виталий
+# Личный проект "Roman Masyutenko"
+
+* Студент [Масютенко Роман](http://t.me/romamasko)
+* Преподаватель [Ткаченко Виталий](http://t.me/Vitalik_Tkachenko_tlt)
